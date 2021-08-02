@@ -1,0 +1,31 @@
+.form__btn:last-child {
+    margin-right: 0;
+}
+
+.form__input:last-child {
+    margin-right: 0px;
+}
+
+.row:last-child {
+    margin-bottom: 15px;
+}
+
+.form__row:last-child {
+    margin-bottom: 50px;
+}
+
+.page-reviews:last-child {
+    padding: 0;
+}
+
+.tours__option:last-child {
+    padding-right: 0;
+}
+
+.service:last-child { 
+    margin-bottom: 69px;
+}
+
+.row:last-child {
+    margin-bottom: 5px;
+}

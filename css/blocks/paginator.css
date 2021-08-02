@@ -1,0 +1,32 @@
+.paginator--theme--dark .paginator__button {
+    color: black;
+}
+
+.paginator--theme--dark .paginator__item--active .paginator__button {
+  color:#FFFFFF;
+  background: #F5170E;
+}
+
+.paginator--theme--dark .paginator__button:hover {
+   color:#FFFFFF;
+  background: #F5170E;
+}
+
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paginator__main {
+    margin-bottom: 152px;
+}
+
+
+
+.paginator__display {
+    margin-right: 22px;
+    margin-left: 17px;
+}
+
+

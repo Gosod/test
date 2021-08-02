@@ -1,0 +1,27 @@
+.tours__option-img1   {
+    display: inline-flex;
+    
+}
+
+.tours__option-img2   {
+    display: inline-flex;
+    
+}
+
+.service__img {
+    width: 40.3%;
+    margin-right: 7%;
+}
+
+.service__img-1, .service__img-2{
+    border-radius: 5px;
+}
+
+.toures__img {
+    min-height: 144px;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}

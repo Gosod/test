@@ -1,0 +1,76 @@
+.controls__item {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+
+.reviews__item {
+    margin-bottom: 17px;
+    background: #F4F5F5;
+}
+
+.reviews__item p {
+    margin-bottom: 74px;
+}
+
+.review__item p:nth-child(1) {
+    margin-bottom: 0;
+}
+
+.paginator__item {
+    text-align: center;
+}
+
+.tours__item {
+    min-height: 449px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: calc(100% /3 - 18px);
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.tours__item:last-child {
+    margin-right: 0px;
+}
+
+.address__item {
+    display: inline-flex;
+    vertical-align: middle;
+    margin-right: 44px;
+}
+
+
+.address__item:last-child {
+margin-right: 0;
+}
+
+.breadcrumbs__item {
+    color: #9A9A9A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    margin-right: 3px;
+}
+
+.breadcrumbs__item:after {
+    content: "/";
+    color: #9A9A9A;
+}
+
+.breadcrumbs__item:last-child:after {
+    display: none;
+}
+
+.breadcrumbs__item-active {
+    font-weight: bold;
+}
+
+.partners__item {
+    margin-bottom : 75px;
+}

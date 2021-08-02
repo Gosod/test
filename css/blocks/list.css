@@ -1,0 +1,25 @@
+.tours__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.paginator__list {
+    display: flex;
+    align-items: center;
+}
+
+.about__list {
+    margin-bottom: 54px;
+}
+
+.breadcrumbs__list {
+    display: flex;
+    align-items: center;
+}
+
+.partners-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,73 @@
+
+
+.form__btns {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.paginator__button {
+    display: block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 32px;
+}
+
+
+.paginator__item--active .paginator__button {
+    background: #FFFFFF;
+    color: #F5170E;
+    display: block;
+}
+
+.paginator__button:hover {
+    background: #FFFFFF;
+    color: #F5170E;
+    display: block;
+}
+
+
+.button {
+    display: inline-flex;
+    background-color: #F5170E;
+    border-radius: 25px;
+    padding: 18px 40px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #DA0100;
+}
+
+.button__style__transparent:hover {
+    color: #F5170E;
+    background-color: #FFFFFF;
+    padding: 18px 40px;
+    border: 1px solid #F5170E ;
+    margin-top: auto;
+    align-self: flex-start;
+}
+
+.button__reviwes ,.button__reviwes--grey {
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.button__reviwes--grey {
+  background:  #8E8E8E;
+  margin-right: 20px;
+}
+
+.button__reviwes--grey:hover {
+    background:  #2B2B2B;
+}
+
+
+
+.button__welcome {
+    padding: 18px 60px;
+}

@@ -1,0 +1,29 @@
+.contact__drop:hover .drop__menu {
+    display: inline-flex;
+    opacity: .8;
+}
+
+.review__user:hover {
+    color: #2E77A4;
+    text-decoration: underline;
+}
+
+.social__icon-tg .social__link:hover {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)   -66px -10px;
+  }
+  
+  .social__icon-fb .social__link:hover {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)   -10px -122px;
+}
+  
+  .social__icon-ig .social__link:hover {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)   -66px -122px;
+}
+  
+  .social__icon-vk .social__link:hover {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)   -66px -66px;
+}

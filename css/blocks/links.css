@@ -1,0 +1,36 @@
+.partners__link {
+    width: 250px;
+    display: flex;
+    align-items: center;    
+    filter: grayscale(100%);
+}
+
+.social__link{
+    display: block;
+    text-decoration: none;
+    height: 36px;
+    width: 36px;
+}
+
+.address__link:hover {
+    color: #DA0100;
+}
+
+.address__link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.address__link--active {
+    color: #DA0100;
+}
+
+.breadcrumbs__link {
+    text-decoration: underline ;
+}
+
+.partners__link:hover {
+    filter: grayscale(0);
+}

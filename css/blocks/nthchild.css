@@ -1,0 +1,8 @@
+.review:nth-child(3n) {
+    padding-bottom: 15px;
+}
+
+.review:nth-child(4n) {
+    margin: 0;
+}
+

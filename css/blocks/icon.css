@@ -1,0 +1,31 @@
+.social__icon-tg {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)  -10px -66px;
+}
+
+.social__icon-fb {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)  -122px -66px;
+}
+
+.social__icon-ig {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)   -10px -10px;
+}
+
+.social__icon-vk {
+    width: 36px; height: 36px;
+    background: url(../../img/sprite.png)  -122px -10px;
+}
+
+
+
+.social__icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.social__icon:last-child {
+    margin-right: 0;
+}
